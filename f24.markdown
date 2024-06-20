@@ -3,21 +3,19 @@ layout: default
 title: "Decentralized Finance"
 subtitle: "Fall 2023"
 permalink: /f23
+redirect_from:
+  - /
 ---
 
 <center>
-<h2>Fall 2023</h2>
-CS194-177 · CS294-177 · EWMBA 237 · MFE 230T
+<h2>Fall 2024</h2>
+CS194-177 · CS294-177
 </center><p></p>
 
-<!-- - [Zoom link](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09) for the synchronous AMAs (password: 557046): [ <img src="./assets/meetings.png" alt="link" width="30" style="vertical-align: middle"/> ](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09)
-- For general course content related questions, please join our [edstem](https://edstem.org/us/join/32ccPN) and [discord](https://discord.gg/3yFqmRjZDA).
-- <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on edstem and make sure it is visible to all teaching staff.</b></span> -->
-
-- If you need a permission code to join the course, please fill out [this form](https://forms.gle/bLNjSiERgd9sMnv6A) and we'll get back to you as soon as possible.
-- If you cannot attend in-person lectures and must join remotely, please fill out [this form](https://forms.gle/MWD2xAvyKYL4bcYT8).
-- If you missed a one-off lecture and wish to get attendance, please fill out [this form](https://forms.gle/1WWozMa4WiWKv92U9) after watching the lecture recording.
-- For general course content related questions, please join our [Edstem](https://edstem.org/us/join/DYcuSw).
+- If you need a permission code to join the course, please fill out [this form](TODO) and we'll get back to you as soon as possible.
+- If you cannot attend in-person lectures and must join remotely, please fill out [this form](TODO).
+- If you missed a one-off lecture and wish to get attendance, please fill out [this form](TODO) after watching the lecture recording.
+- For general course content related questions, please join our [Edstem](TODO).
 - <span style="color: red;"><b>Do not email the course staff or TAs. For private matters, post a private question on Edstem and make sure it is visible to all teaching staff.</b></span>
 
 ## Instructors
@@ -43,17 +41,15 @@ CS194-177 · CS294-177 · EWMBA 237 · MFE 230T
 
 ## Course Staff
 
-Jaiden Fairoze (TA), Matthew Fogel (Reader)
+Zhe Ye (TA), Matthew Fogel (Reader)
 
 ## Meetings
 
 <!-- Lectures: Online, Pre-Recorded (Asynchronous) -->
 
 Synchronous lectures: <br>
-**Tuesday, 10:00 AM - 11:00 AM** <br>
-**Soda 306** <br>
-Note: the class is assigned the 9am to 11am slot, but we will only use the second hour.
-Lecture recordings will be posted shortly after the synchronous lecture.
+**Monday, 10:00 AM - 12:00 PM** <br>
+**Joan and Sanford I. Weill 101D** <br>
 
 <!-- ([Zoom](https://berkeley.zoom.us/j/94128056796?pwd=RWs3bGJkaW1qdGtLd0xBUWN6WjlQUT09)) -->
 
@@ -63,50 +59,33 @@ Lecture recordings will be posted shortly after the synchronous lecture.
 
 All office hours are held remotely (online).
 
-| Dawn Song | ~~4:30pm-5:00pm Mon~~ To be rescheduled | ~~[Meeting link](https://berkeley.zoom.us/j/3665214895)~~ |
-| Jaiden Fairoze | 2:00pm-3:00pm Wed | [Meeting link](https://berkeley.zoom.us/j/6106512760) |
-| Matthew Fogel | 1:30pm-2:30pm Tue | [Meeting link](https://berkeley.zoom.us/j/4895250051) |
+| Dawn Song | TBD | [Meeting link](TODO) |
+| Zhe Ye | TBD | [Meeting link](TODO) |
+| Matthew Fogel | TBD | [Meeting link](TODO) |
 
 ## Enrollment
 
 CS undergraduate students: please register for CS194-177.<br>
 CS graduate students: please register for CS294-177.<br>
 
-<!-- MBA students: please register for MBA 237.2.<br>
-EWMBA students: please register for EWMBA 237.2.<br>
-MFE students: please register for MFE 230T.3.<br> -->
-
- <!-- Please join our [edstem](https://edstem.org/us/courses/7861/discussion/). -->
-
 This is a variable-unit course. The requirements for each number of units are listed below.
 
-- 1 unit: attend lectures + weekly quizzes + article summary
-- 2 units: attend lectures + labs + weekly quizzes
+- TBD
+
+<!-- - 2 units: attend lectures + labs + weekly quizzes
 - 3 units: attend lectures + labs + weekly quizzes + class project
-- 4 units: attend lectures + labs + weekly quizzes + class project with a significant implementation component
+- 4 units: attend lectures + labs + weekly quizzes + class project with a significant implementation component -->
 
 See the <a href="#grading" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Grading</a> section below for further details.
 
-<!-- MFE students can choose between the 2 and 3 credit versions. MBA/EWMBA students will all be in the 3-credit version, but MBA/EWMBA students will not be required to complete programming assignments (labs). -->
-
-<!-- If you need a permission code to join the course, please fill out [this form](https://forms.gle/bLNjSiERgd9sMnv6A) and we'll get back to you as soon as possible. -->
-
 ## Participation
-
-<!-- If we have a guest speaker do an "Ask Me Anything" session to answer your questions about the DeFi topic we covered that week. We expect in-person or online attendance in at least 10 of the AMA sessions, and require each student to ask at least 3 questions to speakers over the course of the semester. Questions should be posted to Edstem by the Sunday preceding each AMA.  -->
 
 We expect students to attend the live lectures in-person. If there is a guest lecture, we encourage students to ask questions. Participation will be measured by lecture attendance.
 If you have a time conflict with another class or another reason you cannot regularly attend synchronous lectures, please make a private post on Edstem -- we will handle each case individually.
 
 ## Course Syllabus
 
-<iframe aria-label="Course Syllabus" id="syllabus" src="./f23_syllabus" width="100%" height="100" frameborder=0> </iframe>
-
-<!--
-## Fireside chat series: the Future of DeFi
-
-<iframe id="fireside" src="./f21_fireside" width="100%" height="100" frameborder=0> </iframe>
--->
+<iframe aria-label="Course Syllabus" id="syllabus" src="./f24_syllabus" width="100%" height="100" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
@@ -126,11 +105,11 @@ If you have a time conflict with another class or another reason you cannot regu
 
 ## Grading
 
-The class will have short written homework and hands-on labs. Students enrolling in 1 unit are expected to submit an article that summarizes either a) one of the lectures or b) a topic from the <a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a> -- students enrolling in more than 1 unit will not have to submit an article. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on correctness). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.
+TBD
 
-<!-- Note: Students enrolled in the MBA and EWMBA versions of the course will not be required to complete programming labs. The grade distribution for MBA, EWMBA, and MFE students may vary from the one shown below. -->
+<!--The class will have short written homework and hands-on labs. Students enrolling in 1 unit are expected to submit an article that summarizes either a) one of the lectures or b) a topic from the <a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a> -- students enrolling in more than 1 unit will not have to submit an article. Students enrolling in 2 units or more are to complete weekly quizzes of equal weight (graded on correctness). In addition, 3 and 4 unit students will participate in a group project (6 students per group), aiming to develop new solutions or analyze existing solutions and real-world deployment in DeFi, including a significant implementation component for 4 unit students.-->
 
-<table>
+<!-- <table>
   <tr>
   <td style="vertical-align: top">
       <b>1 unit</b><br><br>
@@ -177,9 +156,9 @@ The class will have short written homework and hands-on labs. Students enrolling
       </table>
     </td>
   </tr>
-</table>
+</table> -->
 
-### Summary Article
+<!-- ### Summary Article
 
 Students enrolled in 1 unit are expected to submit a 500-word summary article of one of the lectures. Alternatively, students that attend The <a href="https://rdi.berkeley.edu/events/sbcberkeley" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">Future of Decentralization, AI, and Computing Summit</a> in-person may write an article summarizing a topic learned at the summit -- bonus points will be awarded for this option if the article is publicly accessible.
 
@@ -190,16 +169,16 @@ The article’s marking criteria can be found below:
 - Clarity (3 marks): explains complex concepts simply, clearly, and accurately.
 - References (2 marks): cites the relevant lecture and reference material such as research papers properly.
 
-Students who wish to choose the summit option may fill out this <a href="https://forms.gle/qH5grBy39f8TE2zAA" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">submission form</a> before Sep 8.
+Students who wish to choose the summit option may fill out this <a href="https://forms.gle/qH5grBy39f8TE2zAA" style="text-decoration: none; color: hsl(232, 50%, 50%); background-color: white;" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" onfocus="this.style.outline='auto';" onblur="this.style.outline='none';">submission form</a> before Sep 8. -->
 
-### Quizzes
+<!-- ### Quizzes
 
 All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week -- they will be graded on correctness. The questions are all multiple-choice and there are usually at most 5 per quiz.
 
 ### Group Project
 
 Students will be completing an open-ended research project culminating in a presentation and a workshop-style paper submitted at the end of the semester. You will choose an area of research in DeFi that you wish to explore and are encouraged to read related papers in that area. You will then identify an area that you believe needs improvement or merits further research and build systems and/or conduct experiments to further the state of the art within your chosen field. Students are welcome to choose their own topics, but we'll also provide a list of topic suggestions that you can take inspiration from if you wish. **Groups of 5-6 students are required. 3-unit and 4-unit students should not be in the same group.**
-More detail regarding group formation and logistics will be posted when necessary.
+More detail regarding group formation and logistics will be posted when necessary. -->
 
 <!-- - **Group Formation**: After your group members are finalized, please choose a group name and fill out [this form](https://forms.gle/yvkcv26u1m61emeh6) (Due 09/12).
 - **Project Proposal**: After your project idea and logistics are finalized, please fill out [this form](https://forms.gle/Vnmizcn6S8qpCefVA) (Due 10/03). -->
@@ -214,7 +193,7 @@ This year, Berkeley RDI will be hosting the [Crypto Economics Security Conferenc
 The proposal should be submitted through [this google form](https://docs.google.com/forms/d/e/1FAIpQLSdnyIUra41NGD5RD9JfKApMIzJrHhwLi45cO2itZX17_zhVJw/viewform). The final report should be within **6 page** with additional appendix and references as needed (and total max 10 pages). For project presentation, each group needs to record a **3-min video** to summarize the results and findings of the project and need to submit the video (in mp4 format) and slides (in pdf format).
 -->
 
-### Assignment Timeline
+<!-- ### Assignment Timeline
 
 | Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
@@ -226,7 +205,7 @@ The proposal should be submitted through [this google form](https://docs.google.
 | [Lab 1](https://edstem.org/us/courses/41944/discussion/3817654)                | 11/07    | 11/13    |
 | [Lab 2](https://edstem.org/us/courses/41944/discussion/3817654)                | 11/14    | 11/27    |
 | [Project presentation](https://edstem.org/us/courses/41944/discussion/3910164) | 11/21    | 12/04    |
-| [Project final report](https://edstem.org/us/courses/41944/discussion/3910151) | 11/21    | 12/04    |
+| [Project final report](https://edstem.org/us/courses/41944/discussion/3910151) | 11/21    | 12/04    | -->
 
 <!-- | Assignment           | Released | Deadline |
 | :------------------- | :------- | :------- |
