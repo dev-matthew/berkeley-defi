@@ -1,7 +1,7 @@
 ---
 layout: blank
 title: "Decentralized Finance"
-permalink: /f23_syllabus
+permalink: /f24_syllabus
 ---
 
 <table style="table-layout: fixed; font-size: 88%;">
